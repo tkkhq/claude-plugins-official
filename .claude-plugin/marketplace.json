@@ -4170,7 +4170,7 @@
         "url": "https://github.com/Kong/volcano-agentic-plugins.git",
         "path": "plugins/claude-code",
         "ref": "main",
-        "sha": "8f562183aba3a7a76e7cf0675a046ceecd1a99f1"
+        "sha": "01327f234b326a53a8d041db7fe13d23f3bb53a0"
       },
       "homepage": "https://volcano.dev"
     },
