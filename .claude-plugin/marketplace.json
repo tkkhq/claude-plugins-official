@@ -4158,6 +4158,23 @@
       "homepage": "https://www.vibeprospecting.ai/product/claude-plugin"
     },
     {
+      "name": "volcano",
+      "description": "Volcano agent skills and CLI for building and deploying apps and AI agents on Volcano from Claude Code. Work with functions, databases, storage, realtime, and auth through the Volcano SDK, and deploy straight from your editor.",
+      "author": {
+        "name": "Volcano",
+        "email": "support@volcano.dev"
+      },
+      "category": "development",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Kong/volcano-agentic-plugins.git",
+        "path": "plugins/claude-code",
+        "ref": "main",
+        "sha": "36561a89c898894dd42c5cb2c0957a422aaaa7ac"
+      },
+      "homepage": "https://volcano.dev"
+    },
+    {
       "name": "vsql-extension-builder",
       "description": "Builds a VillageSQL extension for MySQL end-to-end through a 7-phase persona-driven workflow. Commonly used to port PostgreSQL extensions to MySQL.",
       "author": {
